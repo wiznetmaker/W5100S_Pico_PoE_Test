@@ -6,9 +6,9 @@ I made a board to test PoE with W5100S + Pico board.
 
 ![image](https://github.com/wiznetmaker/W5100S_Pico_PoE_Test/assets/111826791/a145307a-50a9-469c-aa4a-11569432c0ae)
 
-PROJECT DESCRIPTION
+# PROJECT DESCRIPTION
 
-Story
+## Story
 
 Hello.I'm making a PoE Test board now.
 
@@ -46,7 +46,7 @@ I have finished assembling the board. It was challenging because there were many
 I installed the Pico board and tested it, and it worked successfully.
 That's great to hear! It's good to confirm that the power is being supplied well.
 
-# Issue
+## Issue
 
 The problem is that the board's appearance is unattractive. After connecting everything, it looks very unusual.
 
